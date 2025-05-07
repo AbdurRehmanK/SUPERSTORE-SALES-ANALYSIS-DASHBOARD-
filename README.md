@@ -50,9 +50,6 @@ DAX (Data Analysis Expressions)
 
 Excel (Data Source)
 
-📷 Dashboard Preview
-(Add a screenshot of your dashboard here if possible)
-
 🚀 How to Use
 Download the .pbix file from this repository.
 
