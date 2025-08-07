@@ -3,7 +3,7 @@
 
 This project is a comprehensive Sales Analysis Dashboard built using Microsoft Power BI, designed to uncover key business insights from Superstore sales data. It focuses on data cleaning, transformation, and visualization to support informed decision-making for retail performance improvement.
 
-📊 Features
+1) Features
 Data Preparation & Transformation
 
 Cleaned and transformed raw sales data using Power Query.
@@ -16,15 +16,15 @@ Created a responsive and interactive Power BI dashboard.
 
 Integrated slicers and filters for dynamic data exploration.
 
-Key KPIs Implemented
+2) Key KPIs Implemented
 
-🛒 Total Sales
+ Total Sales
 
-💰 Total Profit
+ Total Profit
 
-📦 Quantity Sold
+ Quantity Sold
 
-⏱️ Average Delivery Time
+ Average Delivery Time
 
 Insightful Visualizations
 
@@ -32,7 +32,7 @@ Donut Charts, Bar Charts, Line Graphs, and Maps
 
 Interactive geographic mapping to identify regional performance trends
 
-📌 Objective
+3) Objective
 To deliver a user-friendly analytics tool that supports retail decision-makers in:
 
 Tracking performance against key metrics
@@ -41,7 +41,7 @@ Identifying top-performing categories and regions
 
 Analyzing sales and delivery trends to improve logistics and customer satisfaction
 
-🛠 Tools & Technologies
+4) Tools & Technologies
 Power BI
 
 Power Query
@@ -50,7 +50,7 @@ DAX (Data Analysis Expressions)
 
 Excel (Data Source)
 
-🚀 How to Use
+5) How to Use
 Download the .pbix file from this repository.
 
 Open it in Power BI Desktop.
